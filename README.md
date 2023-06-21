@@ -1,9 +1,8 @@
 ### <div align="center">Hi 👋, I'm Enes</div>  
-  
+  <hr/>
+  <br/>
 
 - 🌱 I’m currently learning REACT and NODE  
-  
-
 - I love listening to 🎶 music and learning 🔎 new technologies  
   
 
