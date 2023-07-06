@@ -75,11 +75,3 @@
 <br/>  
 
 
-## Spotify Activity
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qesbab4koif6lguut42c55o7uu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
-
-<br/> 
